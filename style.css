@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+   
+}
+
+body {
+    text-decoration: none;
+    
+}
+
+#l1 {
+    
+    font-size: 22px;
+    text-decoration: none;
+    color: rgb(87, 13, 13);
+
+}
+
+header {
+    display: inline-block;
+}
+
+header .companyname {
+    padding: 20px 20px 20px 45%;
+}
+
+.name {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    padding: 20px 20px 30px 38%;
+    
+}
+
+header nav ul {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    
+}
+
+header nav ul li {
+    display: inline-block;
+    font-size: 15px;
+    padding: 0 16px;
+    text-decoration: none;
+
+}
+
+header {
+    width: 100%;
+    background-color: rgb(21, 201, 21);
+}
+
+section {
+    background-color: rgb(215, 189, 226);
+    width: 100%;
+    height: 100vh;
+}
+ 
+
+
+section h1 {
+    width: 50%;
+    font-size: 50px;
+    padding: 50px 50px 10px 50px;
+}
+
+section p {
+    width: 50%;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+form input {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+    width: 500px;
+}
+
+form #submit  {
+    width: 200px;
+    margin-bottom: 20px;
+    
+}
+
+
+.image {
+    margin-top: 60px;
+}
+
+
+#services {
+    width: 100%;
+    height: 600px;
+    text-align: center;
+    
+    
+    background-color: purple;
+    
+}
+
+#services tr td a {
+    text-decoration: none;
+    border-collapse: collapse;
+    color: purple;
+   
+    
+}
+
+#link {
+    background-color: rgb(182, 17, 182);
+    font-size: 30px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+#about {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px;
+    font-size: 24px;
+    
+
+}
+
+#sm {
+    width: 100%;
+    height: 100vh;
+    font-size: 24px;
+    padding: 50px;
+}
+
+
+
+@media only screen and (min-width: 1000px) {
+
+}
